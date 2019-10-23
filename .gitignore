@@ -1,0 +1,8 @@
+*.installed.cfg
+/build/
+/dist/
+*.pyc
+*.pyo
+setup.py
+savegame.*
+*.code-workspace
